@@ -1,29 +1,5 @@
 # wonderful-quotes
 
-## Project setup
-```
-npm install
-```
+A Vue js app to show the communication between the components 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Link: https://bipinmhzn.github.io/wonderful-quotes/dist/
